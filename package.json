@@ -1,0 +1,52 @@
+{
+  "name": "vue2doc-utils",
+  "version": "1.0.0",
+  "description": "vue2doc-utils",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
+    "@vue/babel-preset-jsx": "^1.1.2",
+    "@vue/component-compiler-utils": "^3.1.2",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.1.0",
+    "bufferutil": "^4.0.1",
+    "canvas": "^2.6.1",
+    "chalk": "^4.0.0",
+    "css-loader": "^3.5.3",
+    "debug": "^4.1.1",
+    "file-loader": "^6.0.0",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "fs-extra": "^9.0.0",
+    "glob": "^7.1.6",
+    "jsdom": "^16.2.2",
+    "memfs": "^3.2.0",
+    "progress-bar-webpack-plugin": "^2.1.0",
+    "schema-utils": "^2.6.6",
+    "unionfs": "^4.4.0",
+    "url-loader": "^4.1.0",
+    "utf-8-validate": "^5.0.2",
+    "vm": "^0.1.0",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.43.0",
+    "webpack-merge": "^4.2.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
